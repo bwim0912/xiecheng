@@ -1,0 +1,32 @@
+{
+  "_说明": "wx=微信渠道凭证（带价必需）；sms=手机验证码登录态。复制为 携程_config.json 后填写。",
+  "wx": {
+    "auth": "",
+    "mktOpenID": "",
+    "duid": "",
+    "udl": "",
+    "cookie": "",
+    "scene": "1005",
+    "cid": "",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090a13) UnifiedPCWindowsWechat(0xf2541f38) XWEB/25819",
+    "appVersion": "1077"
+  },
+  "sms": {
+    "cid": "",
+    "duid": "",
+    "udl": "",
+    "auth": "",
+    "uid": "",
+    "mobile": "",
+    "scene": "1145"
+  },
+  "collect": {
+    "_说明": "collect 命令的默认地区/日期；命令行传参会覆盖这里（如 collect 三亚 20261107 20261108）",
+    "place": "广州",
+    "checkin": "20261108",
+    "checkout": "20261109",
+    "pages": 10,
+    "size": 20,
+    "top": 10
+  }
+}
